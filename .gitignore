@@ -1,0 +1,7 @@
+.vercel
+
+# env files (can opt-in for committing if needed)
+.env*
+# keep the example env file tracked
+!.env.example
+/node_modules
